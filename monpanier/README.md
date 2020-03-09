@@ -11,7 +11,7 @@
 ceci est un panier crée avec REACT.js qui permet d'ajouter un code et une quantité et de connaitre le prix d'un article voir plusieurs.
 
 
-# Tech Itilisée
+# Tech utilisée
 
 VSCODE
 REACT (faire une npm install dans le dossier monpanier pour pouvoir lancer le site)
