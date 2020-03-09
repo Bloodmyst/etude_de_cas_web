@@ -1,6 +1,6 @@
-## Crétion d'un panier avec fonctionnalités
+# Crétion d'un panier avec fonctionnalités
 
-# TODO (reste a faire)
+### TODO (reste a faire)
 * Corriger la fonction de suppression
 * Bloquer les champs inputs avec technique REACT
 * Initialiser le prix unitaire apres l'ajout du code 
